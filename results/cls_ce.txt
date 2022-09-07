@@ -1,0 +1,14 @@
+                                precision    recall  f1-score   support
+
+                          none     0.8509    0.8954    0.8726       306
+                       damning     0.8841    0.9104    0.8971        67
+                     derailing     0.2500    0.0909    0.1333        11
+                     discredit     0.8247    0.8362    0.8304       287
+                     dominance     0.3636    0.3636    0.3636        22
+             sexual harassment     1.0000    0.3333    0.5000         6
+stereotyping & objectification     0.6786    0.5846    0.6281        65
+            threat of violence     0.5714    0.5217    0.5455        23
+
+                      accuracy                         0.8081       787
+                     macro avg     0.6779    0.5670    0.5963       787
+                  weighted avg     0.8009    0.8081    0.8022       787
